@@ -38,7 +38,7 @@
   <li><strong>Wazuh Agent</strong> - Installed on Windows 10 client to monitor events and send them to the Wazuh Manager.</li>
   <li><strong>Wazuh Manager</strong> - Processes the events and sends alerts to the SOAR platform for further analysis.</li>
   <li><strong>SOAR Platform</strong> - Enriches the alerts using VirusTotal and orchestrates automated responses.</li>
-  <li><strong>VirusTotal</strong> - Used by the SOAR platform to check for known malware (e.g., Mimikatz) and enrich the alerts.</li>
+  <li><strong>VirusTotal</strong> - Used by the SOAR platform to check for known malicious files (e.g., Mimikatz) and enrich the alerts.</li>
   <li><strong>SOC Analyst</strong> - Receives the alerts via email and can review or initiate further response actions.</li>
 </ul>
 
