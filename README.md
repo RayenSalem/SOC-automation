@@ -3,7 +3,10 @@
 <p>This project demonstrates the integration of <strong>Wazuh</strong>, a security monitoring and alerting platform, with a <strong>SOAR (Security Orchestration, Automation, and Response)</strong> system and <strong>VirusTotal</strong> to automate the detection of threats like <em>Mimikatz</em>, enrich alerts, and respond to security incidents.</p>
 
 <h2>Architecture Overview</h2>
+<div align="center">
+
 <img src="./SocAutomation.png" alt="SOC Automation Diagram" />
+</div>
 
 <h2>Workflow</h2>
 <ol>
