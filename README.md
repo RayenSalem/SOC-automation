@@ -1,4 +1,4 @@
-<h1>Security Operations Center (SOC) Automation with Wazuh, SOAR, and VirusTotal</h1>
+<h1>Security Operations Center (SOC) Automation with Wazuh, SOAR, and Thehive</h1>
 
 <p>This project demonstrates the integration of <strong>Wazuh</strong>, a security monitoring and alerting platform, with a <strong>SOAR (Security Orchestration, Automation, and Response)</strong> system and <strong>VirusTotal</strong> to automate the detection of threats like <em>Mimikatz</em>, enrich alerts, and respond to security incidents.</p>
 
